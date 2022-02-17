@@ -6,3 +6,31 @@
     display: inline-block;
     margin-left: 15px;
 }
+
+.logo_img {
+    width: 150px;
+    max-width: 100%;
+}
+
+.header {
+    display: flex;
+}
+
+.header ul li a {
+    text-decoration: none;
+    color: #000000;
+    padding-left: 19px;
+    padding-right: 19px;
+    padding-top: 19px;
+    padding-bottom: 19px;
+    font-size: 21px;
+    letter-spacing: 0px;
+}
+
+.header ul li a:hover {
+    color: #145294;
+}
+
+.logo_head {
+    margin-left: 100px;
+}

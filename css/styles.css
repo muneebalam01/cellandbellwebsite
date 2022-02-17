@@ -1,7 +1,8 @@
-.header {
-    background-color: red;
+.header ul {
+    list-style: none;
 }
 
-.header {
-    text-align: center;
+.header ul li {
+    display: inline-block;
+    margin-left: 15px;
 }

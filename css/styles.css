@@ -34,3 +34,57 @@
 .logo_head {
     margin-left: 100px;
 }
+
+
+/* hero section style */
+
+.hero_section {
+    display: flex;
+}
+
+.hero_text h1 {
+    font-size: 40px;
+}
+
+.hero_text {
+    padding-top: 50px;
+    padding-right: 20px;
+    padding-left: 20px;
+}
+
+.hero_text p {
+    font-family: "Asap", Sans-serif;
+    font-size: 1rem;
+    font-weight: normal;
+    line-height: 1.5em;
+    margin-bottom: 35px;
+}
+
+.get_in_touch_btn {
+    font-family: "Open Sans", Sans-serif;
+    font-size: 1rem;
+    font-weight: 600;
+    padding: 15px 30px 15px 30px;
+    background: #145294;
+    color: #fff;
+    text-decoration: none;
+    border-radius: 8px;
+}
+
+img.img_hero {
+    max-width: 100%;
+    height: auto;
+    width: 600px;
+}
+
+
+/* about section styling */
+
+.about_section {
+    display: flex;
+}
+
+.about_img {
+    max-width: 100%;
+    width: 600px;
+}

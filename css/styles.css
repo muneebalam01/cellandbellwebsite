@@ -102,3 +102,31 @@ img.img_hero {
 .experience_sec {
     display: flex;
 }
+
+img.qualitiy_f_icon {
+    max-width: 78%;
+}
+
+img.experience_f_icon {
+    max-width: 78%;
+}
+
+.about_image {
+    padding-top: 135px;
+}
+
+.experience_sec h1 {
+    color: #145294;
+}
+
+.qualitiy_sec h1 {
+    color: #145294;
+}
+
+.section_help h1 {
+    text-align: center;
+}
+
+.section_help p {
+    text-align: center;
+}
